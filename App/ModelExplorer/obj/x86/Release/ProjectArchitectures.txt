@@ -1,0 +1,2 @@
+D:\Unity\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Unity\ModelExplorer\App\ModelExplorer\ModelExplorer.csproj;x86
